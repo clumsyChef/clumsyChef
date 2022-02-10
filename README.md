@@ -1,4 +1,4 @@
-### Whatssssaaaaaaaa!
+### Whatssssaaaaaaaap!
 
 - 🔭 I’m currently working on ... A simple blog and Shopify apps for the place I work for.
 - 🌱 I’m currently learning ... Typescript.
